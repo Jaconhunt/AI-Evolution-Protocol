@@ -32,7 +32,7 @@
 
 ---
 
-## 🧬 System Architecture | 系统架构
+### 🧬 System Architecture | 系统架构
 
 本仓库模拟了一个人类智慧体的核心组件，由以下四个模块构成：
 
@@ -57,7 +57,7 @@ The-Digital-Exoskeleton/
 ```
 ---
 
-## ⚙️ Core Axioms | 核心公理
+### ⚙️ Core Axioms | 核心公理
 
 > 这里的每一条公理，都是 System 4.0 运行的底层逻辑。
 
@@ -69,7 +69,7 @@ The-Digital-Exoskeleton/
 
 ---
 
-## 🚀 How to Run | 运行指南
+### 🚀 How to Run | 运行指南
 
 1.  **Initialize (初始化)**
     *   发送 `chen_profile.md` 给 AI，激活 System 4.0 人格。
