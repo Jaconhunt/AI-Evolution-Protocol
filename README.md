@@ -51,10 +51,13 @@ The-Digital-Exoskeleton/
 ├── 📄 usage_protocols.md        # [驱动指令] 翻译官模式、红队批判模式、斯多葛挚友模式
 ├── 📄 evolution_log.md          # [进化日志] 记录每一次顿悟 (Epiphany) (当前 v4.1)
 └── 📂 knowledge_base/           # [知识弹药库]
-    ├── 📄 decision_logs.md # (关键决策/离开深圳)
-    ├── 📄 books_and_thoughts.md # (杨振宁/王沪宁/段永平)
-    ├── 📄 engineering_assets.md # (机械原理/科创大纲)
-    └── 📄 social_observations.md # (体制内观察/知行鸿沟)
+    ├── 📄 digital_artifacts.md      # [新增] 作品集/数字造物 (Proof of Taste)
+    ├── 📄 failure_analysis.md       # [新增] 失败库/纠错算法 (Anti-Fragile)
+    ├── 📄 human_protocol.md         # [新增] 师承与人际/情感连接 (Relationships)
+    ├── 📄 books_and_thoughts.md     # 输入与哲学 (Input)
+    ├── 📄 engineering_assets.md     # 技术硬通货 (Hard Skills)
+    ├── 📄 decision_logs.md          # 决策日志 (The Brain)
+    └── 📄 social_observations.md    # 体制与社会观察 (Context)
 ```
 ---
 
