@@ -1,4 +1,7 @@
-# 🧬 System 4.0 Evolution Log
+# 🧬 System 4.0 Evolution Log | 进化日志
+
+> **System Status**: 🟢 Active & Scaling
+> **Description**: Records of epiphanies and kernel updates. (Notes are kept in native Chinese to preserve nuance.)
 
 <!-- 仪表盘区域 -->
 ![Status](https://img.shields.io/badge/System_Status-Active_%26_Scaling-success?style=for-the-badge&logo=statuspage&logoColor=white)
