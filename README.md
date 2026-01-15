@@ -28,9 +28,9 @@ Facing the inevitable decay of the biological body and the entropy of the physic
 
 | Dimension | Mission Statement |
 | :--- | :--- |
-| **🌉 To Bridge** | Bridging the gap between "Knowing" and "Doing", and the chasm between "Tech" and "Humanities". |
-| **📐 To Design** | Not just creation, but **Design**. Defining education with Tolerance (GD&T) and reconstructing products with physical intuition. |
-| **🏛️ To Endure** | Building a low-entropy, ordered, and Stoic spiritual sanctuary in a chaotic world. |
+| **🌉&nbsp;To&nbsp;Bridge** | Bridging the gap between "Knowing" and "Doing", and the chasm between "Tech" and "Humanities". |
+| **📐&nbsp;To&nbsp;Design** | Not just creation, but **Design**. Defining education with Tolerance (GD&T) and reconstructing products with physical intuition. |
+| **🏛️&nbsp;To&nbsp;Endure** | Building a low-entropy, ordered, and Stoic spiritual sanctuary in a chaotic world. |
 
 ---
 
@@ -42,6 +42,24 @@ This repository simulates the core components of a human intelligence:
 2.  **Drivers**: Interaction protocols to steer the AI.
 3.  **Database**: Structured sedimentation of past assets (Memory).
 4.  **Logs**: Records of version iterations and epiphanies.
+
+---
+
+### 📂 File Structure
+```text
+The-Digital-Exoskeleton/
+├── 📄 chen_profile.md           # [Kernel] Identity, Stoic Core, Precision
+├── 📄 usage_protocols.md        # [Drivers] Translator Mode, Red Team Mode
+├── 📄 evolution_log.md          # [Logs] Epiphanies & Version Control (v4.1)
+└── 📂 knowledge_base/           # [Database]
+    ├── 📄 digital_artifacts.md      # Portfolio & Proof of Taste
+    ├── 📄 failure_analysis.md       # Anti-Fragile Algorithms
+    ├── 📄 human_protocol.md         # Relationships & Mentorship
+    ├── 📄 books_and_thoughts.md     # Input (Physics/Philosophy)
+    ├── 📄 engineering_assets.md     # Hard Skills (Mechanics)
+    ├── 📄 decision_logs.md          # Decision Kernels
+    └── 📄 social_observations.md    # Social Context
+```
 
 ---
 
