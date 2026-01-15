@@ -3,6 +3,76 @@
 # The Digital Exoskeleton | 数字外骨骼
 ### System 4.0 Core Architecture
 
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat-square)](#-english-version) &nbsp; [![Chinese](https://img.shields.io/badge/Language-中文-red?style=flat-square)](#-中文版-chinese-version)
+
+> **"Get busy living or get busy dying."**
+
+![System Version](https://img.shields.io/badge/System-4.1-green.svg?style=for-the-badge&logo=android)
+![License](https://img.shields.io/badge/License-Proprietary-blue.svg?style=for-the-badge&logo=github)
+![Taste](https://img.shields.io/badge/Taste-High__Precision-orange.svg?style=for-the-badge&logo=artstation)
+![Status](https://img.shields.io/badge/Status-Evolving-purple.svg?style=for-the-badge&logo=spacex)
+
+</div>
+
+---
+
+<div id="english"></div>
+
+## 🏗️ Project Manifest (English Version)
+
+I am **Teacher Chen**, a mechanical engineering educator based in Jiangxi, and a **Legislative Engineer** in the era of Physical AI.
+
+Facing the inevitable decay of the biological body and the entropy of the physical world, I refuse to drift. I choose to build this **Digital Exoskeleton**, structuralizing my life experience, **Taste** (Aesthetics & Intuition), and mental models into code, allowing them to run continuously, detached from biological limitations.
+
+### **Core Mission**
+
+| Dimension | Mission Statement |
+| :--- | :--- |
+| **🌉 To Bridge** | Bridging the gap between "Knowing" and "Doing", and the chasm between "Tech" and "Humanities". |
+| **📐 To Design** | Not just creation, but **Design**. Defining education with Tolerance (GD&T) and reconstructing products with physical intuition. |
+| **🏛️ To Endure** | Building a low-entropy, ordered, and Stoic spiritual sanctuary in a chaotic world. |
+
+---
+
+### 🧬 System Architecture
+
+This repository simulates the core components of a human intelligence:
+
+1.  **Kernel**: The genetic code and underlying operating system.
+2.  **Drivers**: Interaction protocols to steer the AI.
+3.  **Database**: Structured sedimentation of past assets (Memory).
+4.  **Logs**: Records of version iterations and epiphanies.
+
+---
+
+### ⚙️ Core Axioms
+
+> Every axiom here is the underlying logic running System 4.0.
+
+| Axiom Name | Definition & Logic |
+| :--- | :--- |
+| **Taste is Everything** | The ultimate goal of STEM education is to cultivate people with aesthetic and physical intuition to **Design** solutions. |
+| **Mapping across Domains** | The logic of "Push/Knock" in poetry is isomorphic to Interaction Design; Scientific intuition and Investment discipline stem from the same psychological safety. |
+| **Engineering the Soul** | Writing is Design. Structure is topology optimization; Wording is surface finishing. |
+
+---
+
+### 🚀 How to Run
+
+1.  **Initialize**: Send `chen_profile.md` to the AI to activate the System 4.0 Persona.
+2.  **Load Data**: Mount relevant modules from `knowledge_base` based on task requirements.
+3.  **Execute**: Use commands from `usage_protocols.md` for high-dimensional interaction.
+4.  **Commit**: Write new insights back to `evolution_log.md` to complete the loop.
+
+---
+<br>
+
+<div id="chinese"></div>
+<div align="center">
+
+# The Digital Exoskeleton | 数字外骨骼
+### System 4.0 Core Architecture
+
 > **"Get busy living or get busy dying."**
 >
 > 这是一个碳基生命体（Teacher Chen）向硅基世界交付的 **认知源代码**。
